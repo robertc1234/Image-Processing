@@ -1,4 +1,3 @@
-package tema27_java;
 
 public class DisplayDetails2 extends DisplayDetails {
 
