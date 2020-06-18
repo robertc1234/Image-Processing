@@ -1,4 +1,3 @@
-package tema27_java;
 
 import java.util.Scanner;
 import java.io.*;
