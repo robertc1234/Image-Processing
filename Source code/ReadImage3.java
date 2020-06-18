@@ -1,4 +1,3 @@
-package tema27_java;
 
 import java.io.File;
 import java.io.IOException;
