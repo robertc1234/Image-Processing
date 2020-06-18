@@ -1,5 +1,6 @@
 # Image-Processing
 Application written in java programming language, which allows adjusting the contrast of an image.
+
 This application fully includes the concepts of OOP (inheritance, encapsulation, polymorphism, abstraction).
 
 This app use Power – Law transformations method, which is a gray-level transformation. For more detailes about this method please consult this link: https://www.tutorialspoint.com/dip/gray_level_transformations.htm .
